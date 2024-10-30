@@ -7,3 +7,4 @@ https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_A4.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_5.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_6.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_7.ipynb
+https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_8.ipynb
