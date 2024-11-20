@@ -9,5 +9,5 @@ https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_6.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_7.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_8.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_9.ipynb
-
+https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_10.ipynb
 https://github.com/2303a52051/23CSBTB39-40/blob/main/AIML_LAB_EXAM.ipynb
